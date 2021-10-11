@@ -45,3 +45,18 @@ Using your knowledge of Python, Pandas, the ETL process, and code refactoring, e
 ## movies_df
 ![dev3 2](https://user-images.githubusercontent.com/58860105/136828875-0f08635f-03aa-4b17-93c3-e668943d13fc.PNG)
 
+## Deliverable 4
+Use knowledge of Python, Pandas, the ETL process, code refactoring, and PostgreSQL to add the movies_df DataFrame and MovieLens rating CSV data to a SQL database.
+![movies_query2](https://user-images.githubusercontent.com/58860105/136829019-77dbded0-3fd1-4ed2-9689-ead49aea2ca4.PNG)
+
+![movies_query1](https://user-images.githubusercontent.com/58860105/136829026-4f83977c-67d0-4949-8a7b-556e80bd3d3a.PNG)
+
+
+![ratings_query1](https://user-images.githubusercontent.com/58860105/136829040-300c3692-bba3-4c13-83ce-a3b38339f1d4.PNG)
+
+![ratings_query2](https://user-images.githubusercontent.com/58860105/136829055-8e388639-d67c-4120-8a87-24dad6071887.PNG)
+
+
+
+# Summary
+
