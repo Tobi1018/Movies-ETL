@@ -9,7 +9,7 @@ In this project, I created an automated pipeline that takes in new data, perform
 
 ## Deliverable 1
 
-Using knowledge of Python, Pandas, the ETL process, and code refactoring, write a function that reads in the three data files and creates three separate DataFrames
+Using knowledge of Python, Pandas, the ETL process, and code refactoring, write a function that reads in the three data files and creates three separate DataFrames.
 
 ## Wiki_movies_df DataFrame
 
@@ -23,7 +23,7 @@ Using knowledge of Python, Pandas, the ETL process, and code refactoring, write 
 
 ## Deliverable 2
 
-Using knowledge of Python, Pandas, the ETL process, and code refactoring, extract and transform the Wikipedia data so you can merge it with the Kaggle metadata. While extracting the IMDb IDs using a regular expression string and dropping duplicates, use a try-except block to catch errors
+Using knowledge of Python, Pandas, the ETL process, and code refactoring, extract and transform the Wikipedia data so you can merge it with the Kaggle metadata. While extracting the IMDb IDs using a regular expression string and dropping duplicates, use a try-except block to catch errors.
 
 ## wiki_movies_df
 ![delv2 1](https://user-images.githubusercontent.com/58860105/136828479-cd06b792-ab12-4bf5-82cb-0a256fb2473e.PNG)
@@ -35,7 +35,7 @@ Using knowledge of Python, Pandas, the ETL process, and code refactoring, extrac
 
 
 ## Deliverable 3
-Using your knowledge of Python, Pandas, the ETL process, and code refactoring, extract and transform the Kaggle metadata and MovieLens rating data, then convert the transformed data into separate DataFrames. Then, you’ll merge the Kaggle metadata DataFrame with the Wikipedia movies DataFrame to create the movies_df DataFrame. Finally, you’ll merge the MovieLens rating data DataFrame with the movies_df DataFrame to create the movies_with_ratings_df
+Using your knowledge of Python, Pandas, the ETL process, and code refactoring, extract and transform the Kaggle metadata and MovieLens rating data, then convert the transformed data into separate DataFrames. Then, you’ll merge the Kaggle metadata DataFrame with the Wikipedia movies DataFrame to create the movies_df DataFrame. Finally, you’ll merge the MovieLens rating data DataFrame with the movies_df DataFrame to create the movies_with_ratings_df.
 
 ## movies_with_ratings_df
 ![dev3 1](https://user-images.githubusercontent.com/58860105/136828812-3da66824-4285-423d-94c3-1da4bfa8b942.PNG)
@@ -59,4 +59,4 @@ Use knowledge of Python, Pandas, the ETL process, code refactoring, and PostgreS
 
 
 # Summary
-The (Extract, Transform, Load) function created collects and cleans movie data from different sources (Wikipedia JSON and Kaggle and ratings CSV files). It transforms and merges the data and loads it into two updatable PostgreSQL dataset tables ready to be used by the hackathon participants for their analysis
+The (Extract, Transform, Load) function created collects and cleans movie data from different sources (Wikipedia JSON and Kaggle and ratings CSV files). It transforms and merges the data and loads it into two updatable PostgreSQL dataset tables ready to be used by the hackathon participants for their analysis.
