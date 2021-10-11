@@ -11,11 +11,11 @@ In this project, I created an automated pipeline that takes in new data, perform
 
 Using knowledge of Python, Pandas, the ETL process, and code refactoring, write a function that reads in the three data files and creates three separate DataFrames
 
-Wiki_movies_df DataFrame
+## Wiki_movies_df DataFrame
 
 ![movies df](https://user-images.githubusercontent.com/58860105/136827910-390a2a98-4eb4-4ac6-90e3-15ed95d817b7.PNG)
 
 
-kaggle_metadata DataFrame
+## kaggle_metadata DataFrame
 
 ![kaggledf](https://user-images.githubusercontent.com/58860105/136828042-b5e60f03-d663-4a21-8a82-5594a9938088.PNG)
