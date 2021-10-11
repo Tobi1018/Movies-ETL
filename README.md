@@ -32,3 +32,16 @@ Using knowledge of Python, Pandas, the ETL process, and code refactoring, extrac
 
 ## wiki_movies_df
 ![delv2 2](https://user-images.githubusercontent.com/58860105/136828493-c3ec1226-a8e7-4f05-bbd6-b77e518fa19a.PNG)
+
+
+## Deliverable 3
+Using your knowledge of Python, Pandas, the ETL process, and code refactoring, extract and transform the Kaggle metadata and MovieLens rating data, then convert the transformed data into separate DataFrames. Then, you’ll merge the Kaggle metadata DataFrame with the Wikipedia movies DataFrame to create the movies_df DataFrame. Finally, you’ll merge the MovieLens rating data DataFrame with the movies_df DataFrame to create the movies_with_ratings_df
+
+## movies_with_ratings_df
+![dev3 1](https://user-images.githubusercontent.com/58860105/136828812-3da66824-4285-423d-94c3-1da4bfa8b942.PNG)
+
+
+
+## movies_df
+![dev3 2](https://user-images.githubusercontent.com/58860105/136828875-0f08635f-03aa-4b17-93c3-e668943d13fc.PNG)
+
