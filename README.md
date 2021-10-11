@@ -19,3 +19,16 @@ Using knowledge of Python, Pandas, the ETL process, and code refactoring, write 
 ## kaggle_metadata DataFrame
 
 ![kaggledf](https://user-images.githubusercontent.com/58860105/136828042-b5e60f03-d663-4a21-8a82-5594a9938088.PNG)
+
+
+## Deliverable 2
+
+Using knowledge of Python, Pandas, the ETL process, and code refactoring, extract and transform the Wikipedia data so you can merge it with the Kaggle metadata. While extracting the IMDb IDs using a regular expression string and dropping duplicates, use a try-except block to catch errors
+
+## wiki_movies_df
+![delv2 1](https://user-images.githubusercontent.com/58860105/136828479-cd06b792-ab12-4bf5-82cb-0a256fb2473e.PNG)
+
+
+
+## wiki_movies_df
+![delv2 2](https://user-images.githubusercontent.com/58860105/136828493-c3ec1226-a8e7-4f05-bbd6-b77e518fa19a.PNG)
