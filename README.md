@@ -59,4 +59,4 @@ Use knowledge of Python, Pandas, the ETL process, code refactoring, and PostgreS
 
 
 # Summary
-
+The (Extract, Transform, Load) function created collects and cleans movie data from different sources (Wikipedia JSON and Kaggle and ratings CSV files). It transforms and merges the data and loads it into two updatable PostgreSQL dataset tables ready to be used by the hackathon participants for their analysis
